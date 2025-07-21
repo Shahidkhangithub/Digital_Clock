@@ -26,7 +26,7 @@ The theme changes automatically to **day/night mode**, and it includes a fullscr
 💻 How to Run
 
 Step 1: Clone the repository
-git clone https://github.com/Shahidkhangithub/digital-watch.git
+git clone https://github.com/Shahidkhangithub/Digital_CLock.git
 
 Step 2: Navigate to the folder
 cd digital-watch
